@@ -378,7 +378,7 @@ hr{
         height: 475px;
         overflow: hidden;
         padding: 15px;
-
+        margin-left: 5px;
     }
     .blogs-info{
         grid-template-columns: repeat(1, 1fr);
