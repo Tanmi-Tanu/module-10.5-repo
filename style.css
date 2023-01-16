@@ -224,6 +224,7 @@ hr{
 @media only screen and (max-width:800px){
     .container{
         width: 100%;
+        overflow: hidden;
     }
     .des{
         font-size: 20px;
@@ -248,7 +249,7 @@ hr{
         align-items: center;
     }
     .hero-area img, .hero-info{
-        width: 90%;
+        width: 80%;
     }
     /*-------Hero End-----*/
     .online-shopping{
@@ -298,6 +299,7 @@ hr{
     
     .container{
         max-width: 100%;
+        overflow: hidden;
     }
     .menu .glass{
         display: none;
@@ -338,7 +340,7 @@ hr{
         align-items: center;
     }
     .hero-area img, .hero-info{
-        width: 90%;
+        width: 80%;
     }
     /*-------Hero End-----*/
     .online-shopping{
